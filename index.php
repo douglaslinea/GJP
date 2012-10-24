@@ -1,5 +1,5 @@
 <?php
-//Arquivo de Configuração
+//Arquivo de Configuraï¿½ï¿½o
 include("system/config.php");
-//Arquivo de Inicialização
+//Arquivo de Inicializaï¿½ï¿½o
 include("system/starter.php");
